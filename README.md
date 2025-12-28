@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I am a 15 year old CS student, currently thinking of pursuing a career in Systems Programming. \
+I'm currently working on [async.h](https://github.com/anny-moose/async.h), a library implementing a task system with a thread pool and promises in C. (loosely inspired by C#'s Task<T>)\
+\
+Currently, my primary languages are C and C++.\
+I also know the basics of Rust.
+
+
 <!--
 **anny-moose/anny-moose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
