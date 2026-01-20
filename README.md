@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a 15 year old CS student, currently thinking of pursuing a career in Systems Programming. \
+I am a 16 year old CS student, currently thinking of pursuing a career in Systems Programming. \
 I'm currently working on [async.h](https://github.com/anny-moose/async.h), a library implementing a task system with a thread pool and promises in C. (loosely inspired by C#'s Task<T>)\
 \
 Currently, my primary languages are C and C++.\
